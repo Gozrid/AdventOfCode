@@ -1,5 +1,8 @@
 # IntelliJ Directory
 .idea
 
+# VSCode Stuff
+.vscode
+
 # Java Stuff
 out
