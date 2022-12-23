@@ -1,0 +1,9 @@
+//Gewonnen, Verloren, Gewonnen = 8+1+7 -- 16
+A Y
+B X
+C X
+
+//Gewonnen, Verloren, Unentschieden = 8+1+6 -- 15
+A Y
+B X
+C Z

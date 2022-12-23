@@ -1,0 +1,14 @@
+Ersten 3 == Version
+Danach die 3 == Type ID
+
+Wenn type id == 4
+    -> Danach sind immer 5 ein package
+        -> 1 am anfang der 5 ist nicht das letzte package
+        -> 0 am anfang der 5 ist das letzte package
+    --> nach letztem package die nullen können vernachlässigt werden
+    
+Wenn type id !=4
+    -> Der erste bit nach dem header (nach 6 bits) ist die laenge
+        -> 0 == 15 bits lange angabe der laenge aller subpackets zusammen
+        -> 1 == 11 bits angabe der anzahl der kommenden subpackets
+    -> Schauen nach 4, ablauf wie bei 4

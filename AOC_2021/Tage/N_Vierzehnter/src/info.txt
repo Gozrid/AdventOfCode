@@ -1,0 +1,1 @@
+die anzahl jede iteration überprüfen um dann eine funktion daraus zu erstellen
