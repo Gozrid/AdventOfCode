@@ -1,4 +1,2 @@
-# IntelliJ Stuff
-.idea
-# VSCode Stuff
-*/.vscode
+# Use parent gitignore
+../.gitignore
