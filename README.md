@@ -8,4 +8,4 @@
 
 ---
 
-<a href="https://github.com/Gozrid" style="text-align:center;">GitHub Profile</a>
+<a href="https://github.com/Gozrid" style="color:grey">GitHub Profile</a>
