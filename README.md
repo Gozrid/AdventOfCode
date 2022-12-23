@@ -8,7 +8,4 @@
 
 ---
 
-<a href ="https://www.google.de">test</a> <center>
-<form action="" style="display:inline">
-<a href="https://github.com/Gozrid">GitHub Profile</a></center>
-</form>
+<a href="https://github.com/Gozrid" style="text-align:center;">GitHub Profile</a>
