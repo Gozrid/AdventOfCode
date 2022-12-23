@@ -8,6 +8,6 @@
 
 ---
 
-<form action="" style="display:inline-block">
+<form action="" style="display:inline">
 <a href ="https://www.google.de">test</a> <center><a href="https://github.com/Gozrid">GitHub Profile</a></center>
 </form>
