@@ -7,6 +7,7 @@
 | [2022](./AOC_2022) | [Website](https://adventofcode.com/2022) |
 
 ---
-<td><nobr>
+
+<form action="" style="display:inline-block">
 <a href ="https://www.google.de">test</a> <center><a href="https://github.com/Gozrid">GitHub Profile</a></center>
-</nobr></td>
+</form>
