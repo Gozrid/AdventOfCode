@@ -1,3 +1,8 @@
+<!--    
+    GitHub styling is a mixed experience...
+    Some things just work without any problems but styling is quite difficult sadly...
+-->
+
 <!-- GitHub doesn´t understand css text-align:center :( -->
 <h1 align="center">Advent of Code Repository</h1>
 
