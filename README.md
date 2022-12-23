@@ -8,4 +8,5 @@
 
 ---
 
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 <a href="https://github.com/Gozrid" style="color:red">GitHub Profile</a>
