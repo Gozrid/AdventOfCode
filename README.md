@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Advent of Code Repository</h1>
+<h1 align="center">Advent of Code Repository</h1>
 
 ## All Advent of Codes
 | Year               | Website link                             |
